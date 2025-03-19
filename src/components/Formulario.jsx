@@ -40,7 +40,6 @@ const Formulario = () => {
         setNombre('')
         setPropietario('')
         setEmail('')
-        setFecha('')
         setSintomas('')
         setId('')
     }
